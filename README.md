@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aasylvia
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C and Machine Learning
-- 💞️ I’m looking to collaborate on projects in web development
+- 👋 Hi, I’m Sylvia Agatako
+- 👀 I’m interested in web programmin and frontend development
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on projects in web development and frontend development
 - 📫 How to reach me: Email: sagatako@mail.wlu.edu
 - 😄 Pronouns: She/her
 
